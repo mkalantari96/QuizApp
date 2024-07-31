@@ -16,7 +16,6 @@ QuizApp is an interactive web application built with React that allows users to 
 - Real-time feedback and scoring
 - Timer functionality for each quiz
 - Responsive design for mobile and desktop devices
-- Authentication and user management
 
 ## Installation
 
